@@ -45,6 +45,9 @@
 <h3 align="center">🌐 Let's Connect</h3>
 
 <p align="center">
+  <a href="https://wa.me/923282076535" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
   <a href="muhammadnabeelsiddiqui98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
