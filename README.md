@@ -1,3 +1,12 @@
+
+<!-- Sci-Fi Cyberpunk Terminal Header -->
+<p align="center">
+  <a href="https://github.com/nabeel459">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=%3E_SYSTEM_INITIALIZED...;%3E_DEVELOPER_MODE_ACTIVE;%3E_WELCOME_TO_MY_PROFILE" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 <!-- Sci-Fi Animated Terminal Scanner -->
 <p align="center">
   <a href="https://github.com/nabeel459">
@@ -10,15 +19,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
-<!-- Sci-Fi Cyberpunk Terminal Header -->
-<p align="center">
-  <a href="https://github.com/nabeel459">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=%3E_SYSTEM_INITIALIZED...;%3E_DEVELOPER_MODE_ACTIVE;%3E_WELCOME_TO_MY_PROFILE" alt="Typing SVG" />
-  </a>
-</p>
-
----
-
 <!-- GitHub Analytics & Stats Graphs (Same as SS) -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
