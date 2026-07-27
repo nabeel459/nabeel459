@@ -14,7 +14,7 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeel459&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nabeel459&show_icons=true&theme=tokyonight&hide_border=true&title_color=00ff66&icon_color=00ff66&text_color=ffffff&bg_color=0d1117" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeel459&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" width="48%" alt="Streak Stats" />
 </p>
 
