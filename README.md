@@ -22,3 +22,11 @@
   <!-- Contribution Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nabeel459&theme=react-dark&bg_color=0d1117&color=00ff66&line=00ff66&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
+---
+
+<!-- Contribution Snake Game -->
+<h3 align="center">🐍 Contribution Snake Game</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nabeel459/nabeel459/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</p>
