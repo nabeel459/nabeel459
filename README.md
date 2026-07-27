@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
+</p>
 <!-- Sci-Fi Cyberpunk Terminal Header -->
 <p align="center">
   <a href="https://github.com/nabeel459">
@@ -16,9 +18,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=00ff66&strokeWidth=2&height=150&section=header&text=%3E_SYSTEM_SCANNING...%20ACCESS%20GRANTED&fontSize=24&fontColor=00ff66&animation=twinkle" width="100%" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
-</p>
+
 <!-- GitHub Analytics & Stats Graphs (Same as SS) -->
 <h3 align="center">📊 GitHub Analytics</h3>
 
