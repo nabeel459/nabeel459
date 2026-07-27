@@ -30,3 +30,22 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nabeel459/nabeel459/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
+---
+
+<!-- Tech Stack Icons -->
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,figma,illustrator,github,vscode,git&perline=5" alt="Tech Stack" />
+</p>
+
+---
+
+<!-- Connect With Me Badges -->
+<h3 align="center">🌐 Let's Connect</h3>
+
+<p align="center">
+  <a href="muhammadnabeelsiddiqui98@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
