@@ -1,3 +1,12 @@
+<!-- Sci-Fi Animated Terminal Scanner -->
+<p align="center">
+  <a href="https://github.com/nabeel459">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&background=0D111700&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%5B%2B%5D+INITIALIZING+SYSTEM_SCANNER...;%5B%2B%5D+SCANNING+PROFILE%3A+MUHAMMAD+NABEEL;%5B%2B%5D+STATUS%3A+FULL+STACK+DEVELOPER;%5B%2B%5D+ACCESS+GRANTED_100%25" alt="Terminal Scanner" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&stroke=00ff66&strokeWidth=2&height=150&section=header&text=%3E_SYSTEM_SCANNING...%20ACCESS%20GRANTED&fontSize=24&fontColor=00ff66&animation=twinkle" width="100%" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn&fontColor=ffffff"/>
 </p>
