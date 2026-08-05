@@ -61,3 +61,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeel459&show_icons=true&theme=dark" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=nabeel459&theme=dark" width="48%" alt="GitHub Streak" />
+</div>
