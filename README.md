@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&animation=fadeIn&fontColor=ffffff" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vcenter=true&width=500&lines=Welcome+To+My+Profile!;Web+Developer+%26+Graphic+Designer;Building+Modern+Web+Apps" alt="Typing SVG" />
+</h1>
 
 <!-- Sci-Fi Cyberpunk Terminal Header -->
 <p align="center">
